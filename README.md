@@ -1,4 +1,15 @@
-<meta http-equiv="refresh" content="7; url='https://barionleg.github.io/koodibook/.github/.hosts:/https:/g.dev/base64'" />
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="7; url='https://barionleg.github.io/koodibook/'" />
+  </head>
+  <body>
+    <p>Please follow <a href="https://barionleg.github github.io/koodibook/.github/.hosts:/https:/g.dev/base64">this link</a>.</p>
+  </body>
+</html>
+
+
+<meta http-equiv="refresh" content="7; url='https://barionleg.github github.io/koodibook/.github/.hosts:/https:/g.dev/base64'" />
 
 ## Welcome to GitHub Pages
 
