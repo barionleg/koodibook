@@ -38,64 +38,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 <div>
-<script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
-<style type="text/css">
-  /* Always set the map height explicitly to define the size of the div
-       * element that contains the map. */
-  #map {
-    height: 100%;
-  }
-
-  /* Optional: Makes the sample page fill the window. */
-  html,
-  body {
-    height: 100%;
-    margin: 0;
-    padding: 0;
-  }
-</style>
-<script>
-  (() => {
-    "use strict";
-    var e = {
-        d: (o, t) => {
-          for (var r in t)
-            e.o(t, r) &&
-              !e.o(o, r) &&
-              Object.defineProperty(o, r, { enumerable: !0, get: t[r] });
-        },
-        o: (e, o) => Object.prototype.hasOwnProperty.call(e, o),
-        r: (e) => {
-          "undefined" != typeof Symbol &&
-            Symbol.toStringTag &&
-            Object.defineProperty(e, Symbol.toStringTag, { value: "Module" }),
-            Object.defineProperty(e, "__esModule", { value: !0 });
-        },
-      },
-      o = {};
-    let t;
-    function r() {
-      t = new google.maps.Map(document.getElementById("map"), {
-        center: { lat: -34.397, lng: 150.644 },
-        zoom: 8,
-      });
-    }
-    e.r(o), e.d(o, { initMap: () => r });
-    var n = window;
-    for (var l in o) n[l] = o[l];
-    o.__esModule && Object.defineProperty(n, "__esModule", { value: !0 });
-  })();
-</script>
-
-<div id="iframe-contents">
-  <div id="map"></div>
-
-  <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
-  <script
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg&callback=initMap&v=weekly&channel=1"
-    async
-  ></script>
-</div>
   
   <iframe
   width="600"
@@ -107,3 +49,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
   src="https://www.google.com/maps/embed/v1/place?key=AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg
     &q=Space+Needle,Seattle+WA">
 </iframe>
+  </div>
