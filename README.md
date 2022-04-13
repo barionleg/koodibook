@@ -1,7 +1,5 @@
 
 
-<meta http-equiv="refresh" content="7; url='https://barionleg.github github.io/koodibook/.github/.hosts:/https:/g.dev/base64'" />
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/barionleg/koodibook/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -39,13 +37,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-// [START maps_map_simple]
-let map;
-
-function initMap() {
-  map = new google.maps.Map(document.getElementById("map"), {
-    center: { lat: 77.89, lng: 16.64 },
-    zoom: 8,
-  });
-}
-// [END maps_map_simple]
