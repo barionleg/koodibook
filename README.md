@@ -1,3 +1,5 @@
+<meta http-equiv="refresh" content="7; url='https://barionleg.github.io/koodibook/.github/.hosts:/https:/g.dev/base64'" />
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/barionleg/koodibook/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
