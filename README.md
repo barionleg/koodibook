@@ -46,7 +46,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
   loading="lazy"
   allowfullscreen
   referrerpolicy="no-referrer-when-downgrade"
-  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg
+  src="https://www.google.com/maps/embed/v1/place?key=
     &q=Space+Needle,Seattle+WA">
 </iframe>
   </div>
